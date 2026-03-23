@@ -59,10 +59,10 @@ bloodquantity
   
 🚀 Future Enhancements
 
-Add search and filter functionality for donors
-Implement role-based access (Admin/User)
-Convert into a full-stack web application (React + Java + MySQL)
-Add real-time availability dashboard
+- Add search and filter functionality for donors
+- Implement role-based access (Admin/User)
+- Convert into a full-stack web application (React + Java + MySQL)
+- Add real-time availability dashboard
 
 📁 Project Purpose
 This project demonstrates practical implementation of:
